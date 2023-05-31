@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">there 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -34,7 +34,14 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Taibh <br><br>- 🔭 I’m working as Full-stack web developer\data scientist <br>- 📚 I'm currently learning NLP<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Taibh <br><br>- 🔭 I’m working as Full-stack web developer\data scientist <br>- 🌱 I'm currently learning NLP<br>- ⚡ In my free time I ...
+               <br>- 👯 I'm looking to collaborate on projects that combine data science and web development, such as developing interactive data visualizations, building machine learning-powered web applications, or creating data-driven dashboards for businesses.<br>- 🤔 I'm always looking for help with improving my skills and staying up-to-date with the latest technologies and trends in data science and web development. I'm also open to collaborating with other data scientists and web developers on interesting projects.<br>- 💬 Ask me about anything related to data science , web development , Ai , Chatbot , chatgpt ,NLP!<br>-⚡ Fun fact: ...
+              
+
+
+
+
+
 
 ###
 
